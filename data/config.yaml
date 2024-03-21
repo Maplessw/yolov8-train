@@ -1,0 +1,9 @@
+train: D:/bishe/code/yolov8-train/data/train/images
+val: D:/bishe/code/yolov8-train/data/val/images
+test: D:/bishe/code/yolov8-train/data/test/images
+
+# number of classes
+nc: 2
+
+# class names
+names: ['GreenLicense','BlueLicense']
